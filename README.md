@@ -1,14 +1,5 @@
-# Octomania
-You are a unique mutated sibling of your octo_family , your brothers are eager to eliminate you , and you try to survive by eliminating them.
-
-## Features
-
-*   **Dynamic Gameplay:** A single, bouncing bullet keeps the action intense.
-*   **Intelligent Enemies:** AI-controlled enemies that can pick up and shoot the bullet.
-*   **Endless Waves:** New enemies spawn as you clear the arena, providing a continuous challenge.
-*   **Scoring System:** Keep track of your progress with a simple, clean scoreboard.
-*   **Mobile Ready:** On-screen controls for a seamless mobile experience.
-*   **Cross-Platform:** Playable on both desktop and mobile devices.
+##  coin-greed
+you are a greedy knight - eager to collect coins from a secret dungeon .
 
 ## How to Play
 
